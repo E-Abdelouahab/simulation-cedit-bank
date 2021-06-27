@@ -1,0 +1,19 @@
+{
+  "name": "simulation-credit-bank-app",
+  "displayName": "simulation-credit-bank-app",
+  "expo": {
+    "name": "simulation-credit-bank-app",
+    "slug": "simulation-credit-bank-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "android": {
+    "adaptiveIcon": {
+      "foregroundImage": "./assets/adaptive-icon.png",
+      "backgroundColor": "#FFFFFF"
+    },
+    "softwareKeyboardLayoutMode": "pan"
+  }
+}
